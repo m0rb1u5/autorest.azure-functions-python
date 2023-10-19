@@ -1,5 +1,5 @@
 {
-  "name": "@autorest/azure-functions-python",
+  "name": "@m0rb1u5/azure-functions-python",
   "version": "0.2.0-preview",
   "description": "The Azure Functions extension for python code generators in AutoRest.",
   "scripts": {
